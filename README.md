@@ -1,5 +1,3 @@
-Certainly! Here's a more detailed explanation of your movie application's backend based on the provided code:
-
 ## Movie Backend Overview
 
 The backend for your movie application is designed to manage user authentication, movie data, and user-specific features such as watchlists. It includes functionality for handling user accounts, managing movies, and implementing caching for efficient data retrieval. Here's a breakdown of the components:
